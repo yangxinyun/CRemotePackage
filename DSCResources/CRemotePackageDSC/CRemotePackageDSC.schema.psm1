@@ -44,7 +44,7 @@ Configuration CRemotePackageDSC
 
         [Parameter()]
         [System.Boolean]
-        $MatchSource = $true,
+        $MatchSource = $false,
 
         [Parameter()]
         [System.Uint32]
